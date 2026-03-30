@@ -1,0 +1,15 @@
+Licenza MIT
+
+Copyright (c) 2026
+
+Con la presente si concede a chiunque ottenga una copia di questo software e dei 
+relativi file di documentazione (il "Software"), il permesso di utilizzare il 
+Software senza restrizioni, inclusi, senza limitazione, i diritti di utilizzo, 
+copia, modifica, fusione, pubblicazione, distribuzione, sottolicenza e/o vendita 
+di copie del Software, a condizione che l'avviso di copyright di cui sopra e 
+questo avviso di autorizzazione siano inclusi in tutte le copie o parti 
+sostanziali del Software.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O 
+IMPLICITE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT SARANNO 
+RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA RESPONSABILITÀ.
