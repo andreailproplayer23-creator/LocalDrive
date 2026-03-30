@@ -7,8 +7,6 @@
 
 * **Zero-Cloud Dependency:** I tuoi dati rimangono sul tuo hardware. Massima privacy, nessuna latenza di rete.
 * **Indicizzazione Intelligente:** Scansione rapida delle directory per trovare i tuoi file in millisecondi.
-* **Integrazione Macro:** Supporto nativo per comandi rapidi (es. tramite Stream Deck o software di Quick-Launch) per gestire i file con un solo tasto.
-* **Lightweight:** Progettato per consumare risorse minime e restare attivo in background senza rallentare il sistema.
 
 ---
 
@@ -19,9 +17,8 @@ Per garantire il corretto funzionamento di tutti i componenti e delle dipendenze
 Segui questi passaggi per l'installazione corretta:
 
 1.  Vai nella sezione **[Releases](https://github.com/andreailproplayer23-creator/LocalDrive/releases)** di questa repository.
-2.  Individua l'ultima versione disponibile (tag `v.latest`).
-3.  Scarica il file **`LocalDrive_Setup_v1.0.exe.exe`** (o il pacchetto relativo al tuo sistema operativo).
-4.  Esegui l'installer e segui le istruzioni a schermo.
+2.  Scarica il file **`LocalDrive_Setup_v1.0.exe.exe`** (o il pacchetto relativo al tuo sistema operativo).
+3.  Esegui l'installer e segui le istruzioni a schermo.
 
 > ⚠️ **Nota:** L'utilizzo del setup ufficiale è l'unico modo per configurare correttamente i permessi di scrittura e le variabili d'ambiente necessarie per le automazioni.
 
