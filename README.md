@@ -17,7 +17,7 @@ Per garantire il corretto funzionamento di tutti i componenti e delle dipendenze
 Segui questi passaggi per l'installazione corretta:
 
 1.  Vai nella sezione **[Releases](https://github.com/andreailproplayer23-creator/LocalDrive/releases)** di questa repository.
-2.  Scarica il file **`LocalDrive_Setup_v1.0.exe.exe`** (o il pacchetto relativo al tuo sistema operativo).
+2.  Scarica il file **`LocalDrive_Setup_v1.0.exe`** (o il pacchetto relativo al tuo sistema operativo).
 3.  Esegui l'installer e segui le istruzioni a schermo.
 
 > ⚠️ **Nota:** L'utilizzo del setup ufficiale è l'unico modo per configurare correttamente i permessi di scrittura e le variabili d'ambiente necessarie per le automazioni.
